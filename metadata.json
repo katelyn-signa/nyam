@@ -1,0 +1,6 @@
+{
+  "name": "CourtLens",
+  "description": "AI-Powered Legal Case & Evidence Intelligence Platform with cryptographic integrity, chain of custody, timeline intelligence, and metadata extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
